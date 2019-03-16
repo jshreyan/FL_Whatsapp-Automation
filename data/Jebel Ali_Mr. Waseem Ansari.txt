@@ -1,2 +1,0 @@
-"TEXT:= Good Day Mr. Waseem Ansari. Please find price indications for today as below"
-"CAPTION:= Please note that above prices are only indicative in nature and subject to final confirmation"
